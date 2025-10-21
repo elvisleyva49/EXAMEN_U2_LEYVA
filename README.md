@@ -92,6 +92,10 @@ static DateTime _obtenerFechaHoraPeru() {
 
 ## 📸 Capturas de Pantalla
 
+<img width="1080" height="2400" alt="Screenshot_1761082377" src="https://github.com/user-attachments/assets/0512f901-e2d8-49ae-a993-052bee36a185" />
+<img width="1080" height="2400" alt="Screenshot_1761082387" src="https://github.com/user-attachments/assets/26ce5ecf-0c91-4edf-a36c-31ad8efb7e9c" />
+<img width="1080" height="2400" alt="Screenshot_1761082363" src="https://github.com/user-attachments/assets/9973dae6-9a22-4d77-b35d-44b3a4c4b298" />
+
 
 > **Nota:** Las capturas de pantalla se incluirán como evidencia de las funcionalidades implementadas.
 
