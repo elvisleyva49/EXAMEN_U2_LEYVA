@@ -93,12 +93,11 @@ static DateTime _obtenerFechaHoraPeru() {
 ## 📸 Capturas de Pantalla
 
 
-
 > **Nota:** Las capturas de pantalla se incluirán como evidencia de las funcionalidades implementadas.
 
 ---
 
-## 🔍 Índices de Firestore
+## 🔍 Índices en Firestore
 
 ### Índice Compuesto Requerido
 **Colección:** `registrosleyva`
